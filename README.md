@@ -1,4 +1,2 @@
 - DE-IK GI MSc ⏳
-- Beginner in Calistenics
-- Professional in Fasting
-- Developer at SysCops
+- DevOps Architect at SysCops
