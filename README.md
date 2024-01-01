@@ -1,9 +1,8 @@
-- DE-IK GI MSc ⏳
 - Cloud DevOps Engineer at Unisys
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/benjamin.komjathy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/benjamin.komjathy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/benjaminkomjathy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@benijamin96) [![Gitlab](https://img.shields.io/badge/Gitlab-%FC6F26.svg?logo=Gitlab&logoColor=white)](https://gitlab.com/benjamin.komjathy)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/benjamin.komjathy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/benjamin.komjathy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/benjaminkomjathy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@benjaminkomjathy) [![Gitlab](https://img.shields.io/badge/Gitlab-%FC6F26.svg?logo=Gitlab&logoColor=white)](https://gitlab.com/benjamin.komjathy)
 
 [https://benjaminkomjathy.hu/](https://benjaminkomjathy.hu/)
 
